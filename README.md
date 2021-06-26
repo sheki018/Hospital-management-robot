@@ -1,4 +1,4 @@
-# Hospital-management-robot
+# Hospital management robot
 
 This is a hospital management robot which transports all needed medicines and food to the patients thereby avoiding physical contact. It can be used at home as well.
 
