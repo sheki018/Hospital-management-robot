@@ -10,13 +10,13 @@ HARDWARE:
 
 It is made up of 4 major components.
 
-NODE MCU – We have got this so that it can work wirelessly
+1.NODE MCU – We have got this so that it can work wirelessly
 
-L2393D H BRIDGE MOTOR DRIVER
+2.L2393D H BRIDGE MOTOR DRIVER
 
-50 RPM GEARED MOTOR – we have limited its speed to obtain maximum stability and to make sure that everything is transported in shape
+3.50 RPM GEARED MOTOR – we have limited its speed to obtain maximum stability and to make sure that everything is transported in shape
 
-TWO 6V, 4.5A BATTERY – just a little bit of juice to power up the robot but you can power up the robot for 2 hours on a single charge whereas it will take one hour to fully charge the battery depending upon the usage.
+4.TWO 6V, 4.5A BATTERY – just a little bit of juice to power up the robot but you can power up the robot for 2 hours on a single charge whereas it will take one hour to fully charge the battery depending upon the usage.
 
 SOFTWARE:
 
@@ -24,26 +24,26 @@ Right now, we have programmed the nodemcu to do to basic operations like moving 
 
 INSTRUCTIONS TO USE:
 
-Install and open the APK file in your android device.
+1.Install and open the APK file in your android device.
 
-In the home screen choose your choice of control either manual or voice control.
+2.In the home screen choose your choice of control either manual or voice control.
 
 Manual control:
 
-Use the arrow buttons to control the direction of robot’s travel and the stop button to stop the movement of the robot.
+3.Use the arrow buttons to control the direction of robot’s travel and the stop button to stop the movement of the robot.
 
-Use the slider below to control the speed of the robot.
+4.Use the slider below to control the speed of the robot.
 
-Press the “Switch to Voice Control” button to switch to the screen where the actions of the robot can be controlled by voice commands.
+5.Press the “Switch to Voice Control” button to switch to the screen where the actions of the robot can be controlled by voice commands.
 
 Voice control:
 
-Press the microphone button and allow permissions to use device’s microphone.
+6.Press the microphone button and allow permissions to use device’s microphone.
 
-Press the “How to use” instruction button to check out all the valid commands to control the actions of the robot.
+7.Press the “How to use” instruction button to check out all the valid commands to control the actions of the robot.
 
-Speak commands such as “go forward”, “turn right”, turn left” and “go back” to control the robot’s actions.
+8.Speak commands such as “go forward”, “turn right”, turn left” and “go back” to control the robot’s actions.
 
-Press the “Switch to Manual Control” button to return back to the original screen.
+9.Press the “Switch to Manual Control” button to return back to the original screen.
 
-Close the app.
+10.Close the app.
